@@ -39,4 +39,3 @@ This collection includes **15+ projects** spanning three major AI domains:
 
 ---
 
-## 📂 Repository Structure
